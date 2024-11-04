@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Saiful Anwar",
+      "email": "saiful@kamutau.com",
+      "password": "kunci123"
+    },
+    {
+      "id": "2",
+      "name": "Bob",
+      "email": "bob@sad.com",
+      "password": "eye112"
+    },
+    {
+      "id": "3",
+      "name": "Nico",
+      "email": "Robin@hood.com",
+      "password": "ainun89"
+    },
+    {
+      "id": "4",
+      "name": "melstro",
+      "email": "destro@ya.com",
+      "password": "apaja90"
+    },
+    {
+      "id": "5",
+      "name": "gaga",
+      "email": "crown@swan.com",
+      "password": "popcorn4j"
+    }
+  ]
+}
